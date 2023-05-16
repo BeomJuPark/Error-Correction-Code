@@ -1,2 +1,3 @@
-# Study_info
-C++/Python/Script language
+# Error Correction Code
+HW Modeling using the SW
+
